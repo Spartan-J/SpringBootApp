@@ -1,0 +1,27 @@
+2020-08-18 01:01:51 [main] INFO  c.s.ProductMApplication_log - Starting ProductMApplication_log on BDC3-LX-01347ZX with PID 15068 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger)
+2020-08-18 01:01:51 [main] DEBUG c.s.ProductMApplication_log - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-18 01:01:51 [main] INFO  c.s.ProductMApplication_log - No active profile set, falling back to default profiles: default
+2020-08-18 01:01:56 [main] INFO  c.s.ProductMApplication_log - Started ProductMApplication_log in 5.696 seconds (JVM running for 6.659)
+2020-08-18 01:01:56 [main] DEBUG c.s.ProductMApplication_log - ---------App started-------
+2020-08-18 01:03:01 [http-nio-8080-exec-1] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-18 01:03:01 [http-nio-8080-exec-1] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-18 01:03:01 [http-nio-8080-exec-1] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-18 01:03:01 [http-nio-8080-exec-1] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-18 01:03:01 [http-nio-8080-exec-1] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-18 01:03:06 [http-nio-8080-exec-3] DEBUG c.supermarket.service.ProductService - /service ---save --- debug level
+2020-08-18 01:09:07 [main] INFO  c.s.ProductMApplication_log - Starting ProductMApplication_log on BDC3-LX-01347ZX with PID 11068 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger)
+2020-08-18 01:09:07 [main] DEBUG c.s.ProductMApplication_log - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-18 01:09:07 [main] INFO  c.s.ProductMApplication_log - No active profile set, falling back to default profiles: default
+2020-08-18 01:09:12 [main] INFO  c.s.ProductMApplication_log - Started ProductMApplication_log in 4.936 seconds (JVM running for 5.954)
+2020-08-18 01:09:12 [main] DEBUG c.s.ProductMApplication_log - ---------App started-------
+2020-08-18 01:09:26 [http-nio-8080-exec-1] DEBUG c.supermarket.service.ProductService - /service ---save --- debug level
+2020-08-18 01:09:30 [http-nio-8080-exec-2] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-18 01:09:30 [http-nio-8080-exec-2] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-18 01:09:30 [http-nio-8080-exec-2] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-18 01:09:30 [http-nio-8080-exec-2] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-18 01:09:30 [http-nio-8080-exec-2] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-18 01:18:03 [main] INFO  c.s.ProductMApplication_log - Starting ProductMApplication_log on BDC3-LX-01347ZX with PID 19332 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger)
+2020-08-18 01:18:03 [main] DEBUG c.s.ProductMApplication_log - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-18 01:18:03 [main] INFO  c.s.ProductMApplication_log - No active profile set, falling back to default profiles: default
+2020-08-18 01:18:09 [main] INFO  c.s.ProductMApplication_log - Started ProductMApplication_log in 6.054 seconds (JVM running for 7.022)
+2020-08-18 01:18:09 [main] DEBUG c.s.ProductMApplication_log - ---------App started-------

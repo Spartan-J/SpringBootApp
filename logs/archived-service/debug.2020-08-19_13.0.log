@@ -1,0 +1,5 @@
+2020-08-19 13:51:57 [http-nio-8080-exec-10] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 13:51:58 [http-nio-8080-exec-10] ERROR c.supermarket.service.ProductService - No products---------listAll
+2020-08-19 13:52:02 [http-nio-8080-exec-2] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 13:52:02 [http-nio-8080-exec-2] ERROR c.supermarket.service.ProductService - No products---------listAll
+2020-08-19 13:57:20 [http-nio-8080-exec-3] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level

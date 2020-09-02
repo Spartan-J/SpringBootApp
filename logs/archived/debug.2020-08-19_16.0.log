@@ -1,0 +1,73 @@
+2020-08-19 16:09:34 [http-nio-8080-exec-2] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:09:34 [http-nio-8080-exec-2] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:09:34 [http-nio-8080-exec-2] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:09:34 [http-nio-8080-exec-2] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:09:34 [http-nio-8080-exec-2] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:12:42 [main] INFO  c.s.ProductMApplication_excp - Starting ProductMApplication_excp on BDC3-LX-01347ZX with PID 15792 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger)
+2020-08-19 16:12:42 [main] DEBUG c.s.ProductMApplication_excp - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-19 16:12:42 [main] INFO  c.s.ProductMApplication_excp - No active profile set, falling back to default profiles: default
+2020-08-19 16:12:48 [main] INFO  c.s.ProductMApplication_excp - Started ProductMApplication_excp in 6.004 seconds (JVM running for 7.091)
+2020-08-19 16:12:48 [main] DEBUG c.s.ProductMApplication_excp - ---------App started-------
+2020-08-19 16:14:49 [main] INFO  c.s.ProductMApplication_excp - Starting ProductMApplication_excp on BDC3-LX-01347ZX with PID 28748 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger)
+2020-08-19 16:14:49 [main] DEBUG c.s.ProductMApplication_excp - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-19 16:14:49 [main] INFO  c.s.ProductMApplication_excp - No active profile set, falling back to default profiles: default
+2020-08-19 16:14:54 [main] INFO  c.s.ProductMApplication_excp - Started ProductMApplication_excp in 5.479 seconds (JVM running for 6.539)
+2020-08-19 16:14:54 [main] DEBUG c.s.ProductMApplication_excp - ---------App started-------
+2020-08-19 16:15:09 [http-nio-8080-exec-1] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:15:09 [http-nio-8080-exec-1] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:15:09 [http-nio-8080-exec-1] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:15:09 [http-nio-8080-exec-1] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:15:09 [http-nio-8080-exec-1] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:36:33 [main] INFO  c.s.ProductMApplication_excp - Starting ProductMApplication_excp on BDC3-LX-01347ZX with PID 9228 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger)
+2020-08-19 16:36:33 [main] DEBUG c.s.ProductMApplication_excp - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-19 16:36:33 [main] INFO  c.s.ProductMApplication_excp - No active profile set, falling back to default profiles: default
+2020-08-19 16:36:40 [main] INFO  c.s.ProductMApplication_excp - Started ProductMApplication_excp in 7.792 seconds (JVM running for 8.885)
+2020-08-19 16:36:40 [main] DEBUG c.s.ProductMApplication_excp - ---------App started-------
+2020-08-19 16:36:53 [main] INFO  c.s.ProductMApplication_excp - Starting ProductMApplication_excp on BDC3-LX-01347ZX with PID 29296 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger)
+2020-08-19 16:36:53 [main] DEBUG c.s.ProductMApplication_excp - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-19 16:36:53 [main] INFO  c.s.ProductMApplication_excp - No active profile set, falling back to default profiles: default
+2020-08-19 16:38:22 [main] INFO  c.s.ProductMApplication_excp - Starting ProductMApplication_excp on BDC3-LX-01347ZX with PID 24912 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger)
+2020-08-19 16:38:22 [main] DEBUG c.s.ProductMApplication_excp - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-19 16:38:22 [main] INFO  c.s.ProductMApplication_excp - No active profile set, falling back to default profiles: default
+2020-08-19 16:38:27 [main] INFO  c.s.ProductMApplication_excp - Started ProductMApplication_excp in 5.723 seconds (JVM running for 6.763)
+2020-08-19 16:38:27 [main] DEBUG c.s.ProductMApplication_excp - ---------App started-------
+2020-08-19 16:38:44 [http-nio-8080-exec-1] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:38:44 [http-nio-8080-exec-1] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:38:44 [http-nio-8080-exec-1] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:38:44 [http-nio-8080-exec-1] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:38:44 [http-nio-8080-exec-1] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:39:29 [http-nio-8080-exec-6] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:39:29 [http-nio-8080-exec-6] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:39:29 [http-nio-8080-exec-6] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:39:29 [http-nio-8080-exec-6] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:39:29 [http-nio-8080-exec-6] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:39:54 [http-nio-8080-exec-3] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:39:54 [http-nio-8080-exec-3] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:39:54 [http-nio-8080-exec-3] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:39:54 [http-nio-8080-exec-3] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:39:54 [http-nio-8080-exec-3] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:46:02 [http-nio-8080-exec-7] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:46:02 [http-nio-8080-exec-7] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:46:02 [http-nio-8080-exec-7] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:46:02 [http-nio-8080-exec-7] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:46:02 [http-nio-8080-exec-7] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:49:02 [http-nio-8080-exec-9] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:49:02 [http-nio-8080-exec-9] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:49:02 [http-nio-8080-exec-9] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:49:02 [http-nio-8080-exec-9] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:49:02 [http-nio-8080-exec-9] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:51:35 [http-nio-8080-exec-1] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:51:35 [http-nio-8080-exec-1] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:51:36 [http-nio-8080-exec-1] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:51:36 [http-nio-8080-exec-1] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:51:36 [http-nio-8080-exec-1] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:54:20 [http-nio-8080-exec-3] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:54:20 [http-nio-8080-exec-3] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:54:20 [http-nio-8080-exec-3] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:54:20 [http-nio-8080-exec-3] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:54:20 [http-nio-8080-exec-3] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-19 16:54:25 [http-nio-8080-exec-5] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-19 16:54:25 [http-nio-8080-exec-5] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-19 16:54:25 [http-nio-8080-exec-5] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-19 16:54:25 [http-nio-8080-exec-5] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-19 16:54:25 [http-nio-8080-exec-5] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level

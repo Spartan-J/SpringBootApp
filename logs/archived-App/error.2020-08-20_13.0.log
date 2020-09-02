@@ -1,0 +1,25 @@
+2020-08-20 13:08:56 [http-nio-8080-exec-6] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-20 13:08:56 [http-nio-8080-exec-6] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-20 13:08:56 [http-nio-8080-exec-6] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-20 13:08:56 [http-nio-8080-exec-6] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-20 13:08:56 [http-nio-8080-exec-6] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 13:11:21 [http-nio-8080-exec-8] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-20 13:11:21 [http-nio-8080-exec-8] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-20 13:11:21 [http-nio-8080-exec-8] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-20 13:11:21 [http-nio-8080-exec-8] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-20 13:11:21 [http-nio-8080-exec-8] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 13:12:54 [http-nio-8080-exec-10] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-20 13:12:54 [http-nio-8080-exec-10] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-20 13:12:54 [http-nio-8080-exec-10] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-20 13:12:54 [http-nio-8080-exec-10] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-20 13:12:54 [http-nio-8080-exec-10] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 13:18:17 [http-nio-8080-exec-2] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-20 13:18:17 [http-nio-8080-exec-2] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-20 13:18:17 [http-nio-8080-exec-2] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-20 13:18:17 [http-nio-8080-exec-2] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-20 13:18:17 [http-nio-8080-exec-2] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 13:26:34 [http-nio-8080-exec-4] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-20 13:26:34 [http-nio-8080-exec-4] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-20 13:26:34 [http-nio-8080-exec-4] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-20 13:26:34 [http-nio-8080-exec-4] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-20 13:26:34 [http-nio-8080-exec-4] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level

@@ -1,0 +1,16 @@
+2020-08-18 00:49:28 [main] INFO  com.supermarket.ProductMApplication - Starting ProductMApplication on BDC3-LX-01347ZX with PID 2992 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger)
+2020-08-18 00:49:28 [main] DEBUG com.supermarket.ProductMApplication - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-18 00:49:28 [main] INFO  com.supermarket.ProductMApplication - No active profile set, falling back to default profiles: default
+2020-08-18 00:49:34 [main] INFO  com.supermarket.ProductMApplication - Started ProductMApplication in 6.583 seconds (JVM running for 7.589)
+2020-08-18 00:50:14 [http-nio-8080-exec-1] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-18 00:50:14 [http-nio-8080-exec-1] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-18 00:50:14 [http-nio-8080-exec-1] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-18 00:50:14 [http-nio-8080-exec-1] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-18 00:52:19 [main] INFO  com.supermarket.ProductMApplication - Starting ProductMApplication on BDC3-LX-01347ZX with PID 12056 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_logger)
+2020-08-18 00:52:19 [main] DEBUG com.supermarket.ProductMApplication - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-18 00:52:19 [main] INFO  com.supermarket.ProductMApplication - No active profile set, falling back to default profiles: default
+2020-08-18 00:52:23 [main] INFO  com.supermarket.ProductMApplication - Started ProductMApplication in 4.859 seconds (JVM running for 5.817)
+2020-08-18 00:52:37 [http-nio-8080-exec-2] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-18 00:52:37 [http-nio-8080-exec-2] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-18 00:52:37 [http-nio-8080-exec-2] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-18 00:52:37 [http-nio-8080-exec-2] WARN  c.s.controller.ProductController - /products --- warn level

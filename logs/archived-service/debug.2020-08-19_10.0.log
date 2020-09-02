@@ -1,0 +1,2 @@
+2020-08-19 10:16:58 [http-nio-8080-exec-4] DEBUG c.supermarket.service.ProductService - /service ---listById --- debug level
+2020-08-19 10:36:33 [http-nio-8080-exec-2] DEBUG c.supermarket.service.ProductService - /service ---listById --- debug level

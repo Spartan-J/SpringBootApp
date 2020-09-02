@@ -1,0 +1,5 @@
+2020-08-18 20:12:08 [http-nio-8080-exec-3] DEBUG c.s.controller.ProductController - /products --- debug level
+2020-08-18 20:12:08 [http-nio-8080-exec-3] ERROR c.s.controller.ProductController - /products --- error level
+2020-08-18 20:12:08 [http-nio-8080-exec-3] INFO  c.s.controller.ProductController - /products --- info level
+2020-08-18 20:12:08 [http-nio-8080-exec-3] WARN  c.s.controller.ProductController - /products --- warn level
+2020-08-18 20:12:08 [http-nio-8080-exec-3] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level

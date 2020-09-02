@@ -1,0 +1,5 @@
+2020-08-21 00:21:04 [main] INFO  c.s.ProductMApplication_excp - Starting ProductMApplication_excp on BDC3-LX-01347ZX with PID 28860 (C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger\target\classes started by jay.muchhala in C:\Users\jay.muchhala\Documents\SpringBoot\Product_Exception_logger)
+2020-08-21 00:21:04 [main] DEBUG c.s.ProductMApplication_excp - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-21 00:21:04 [main] INFO  c.s.ProductMApplication_excp - No active profile set, falling back to default profiles: default
+2020-08-21 00:21:11 [main] INFO  c.s.ProductMApplication_excp - Started ProductMApplication_excp in 8.035 seconds (JVM running for 9.156)
+2020-08-21 00:21:11 [main] DEBUG c.s.ProductMApplication_excp - ---------App started-------

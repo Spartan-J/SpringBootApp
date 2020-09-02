@@ -1,0 +1,6 @@
+2020-08-20 15:19:20 [http-nio-8080-exec-5] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 15:20:03 [http-nio-8080-exec-6] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 15:23:41 [http-nio-8080-exec-7] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 15:28:23 [http-nio-8080-exec-9] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 15:42:07 [http-nio-8080-exec-10] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
+2020-08-20 15:42:41 [http-nio-8080-exec-1] DEBUG c.supermarket.service.ProductService - /service ---listAll --- debug level
